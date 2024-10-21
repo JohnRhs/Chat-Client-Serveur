@@ -1,4 +1,4 @@
-PROJET CHAT EN RESEAU TCP/IP : RAHARISON JOHN 22008899
+PROJET CHAT EN RESEAU TCP/IP : RAHARISON JOHN 
 
 
 - Le Projet implémente un Chat en réseau dans le langage C, il permet de connecter plusieurs clients au serveur, de leurs faire choisir un pseudo et discuter en privé, en public ou en groupe.
