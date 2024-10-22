@@ -25,21 +25,22 @@ Compilation
 
 Pour compiler le serveur et le client, exécutez les commandes suivantes :
 
-gcc serveur.c -o serveur
-gcc client.c -o client
+	•	gcc serveur.c -o serveur
+	•	gcc client.c -o client
 
 Exécution
 
 L’exécution se fait comme suit :
 
-	•	Serveur :
+Serveur :
 
-./serveur
+	•	./serveur 
+
+Client :
 
 
-	•	Client :
+	•	./client P8
 
-./client
 
 
 
