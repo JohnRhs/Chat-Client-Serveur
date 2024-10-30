@@ -1,5 +1,3 @@
-Voici une version structurée et propre de votre README pour votre projet de chat en réseau TCP/IP en C, adaptée pour un dépôt GitHub. Elle comprend des sections claires, un formatage adapté et un affichage des commandes sous forme de blocs de code.
-
 Projet Chat en Réseau TCP/IP
 
 Auteur: Raharison John
