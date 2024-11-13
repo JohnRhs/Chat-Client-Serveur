@@ -1,4 +1,4 @@
-Projet Chat en Réseau (TCP/IP) - Language C
+Projet Chat en Réseau (TCP/IP) - Langage C
 
 Auteur: Raharison John
 
